@@ -1,0 +1,44 @@
+[
+ {
+  "id": "M0",
+  "name": "小晴",
+  "role": "captain",
+  "key_hash": "bf405748a57673492cd982acbd9de68fe4e4f73b62b951573d31617cd495aee0",
+  "revoked": false
+ },
+ {
+  "id": "M1",
+  "name": "二号",
+  "role": "member",
+  "key_hash": "8578ce094a763bfba2cdac31d03972c055aae8b6d59470fec6293dc4f741b38b",
+  "revoked": false
+ },
+ {
+  "id": "M2",
+  "name": "三号",
+  "role": "member",
+  "key_hash": "d4f622df1382f1d53195a3a0a4ba9843de0f79bde587767f619bc26a3a11f354",
+  "revoked": false
+ },
+ {
+  "id": "M3",
+  "name": "四号",
+  "role": "member",
+  "key_hash": "e0533e761ad139c12ea4f4bb35ae962efb90a6de5b32eb97833d0a7e39e59df8",
+  "revoked": false
+ },
+ {
+  "id": "M4",
+  "name": "五号",
+  "role": "member",
+  "key_hash": "a3b7a2c0f4f55fec4713b345fe876d9a47558eb711b8f72f41d2da7254b67402",
+  "revoked": false
+ },
+ {
+  "id": "M5",
+  "name": "六号",
+  "role": "member",
+  "key_hash": "bb0e05c8b1a28d7925e7278b464cf4b283013dc2a7fa141f0c37fceefcdb35e8",
+  "revoked": false
+ }
+]
